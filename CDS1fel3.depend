@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623332993 source:e:\c++\cds1fel3\main.cpp
+	<iostream>
+	<fstream>
+
